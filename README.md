@@ -1,2 +1,4 @@
- Chronos Watches is a modern, responsive e-commerce web application designed for showcasing and selling premium watches online https://chronos-watches-375434359993.asia-southeast1.run.app
-The project focuses on building a clean UI with fast navigation and responsive design that works seamlessly across desktop and mobile devices. It demonstrates core full-stack concepts such as frontend design, routing, and deployment of a live web application.
+ Chronos Watches is a modern, responsive e-commerce web application designed for showcasing and selling premium watches online
+ 
+ https://chronos-watches-375434359993.asia-southeast1.run.app
+
